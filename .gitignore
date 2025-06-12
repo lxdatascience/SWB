@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+*.log
+*.ini
+*.cfg
+*.db
+*.sqlite
+*.p
+*.pkl
+*.so
+*.manifest
+*.spec
+*.pyre
+*.pytype
+.pytest_cache/
+coverage.xml
+.coverage
+.pdm.toml
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+# *.ipynb # uncomment if you want to ignore all notebook files
+
+# General
+.DS_Store
+.vscode/
+*.env
